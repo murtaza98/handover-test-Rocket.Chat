@@ -1,0 +1,15 @@
+{
+    "id": "1eae6c86-ecdb-49bf-961a-e7dbd22229b9",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Rocket.Chat",
+        "homepage": "m.patrawala@somaiya.edu",
+        "support": "m.patrawala@somaiya.edu"
+    },
+    "name": "handover-test",
+    "nameSlug": "handover-test",
+    "classFile": "HandoverTestApp.ts",
+    "description": "just a simple testing app"
+}
